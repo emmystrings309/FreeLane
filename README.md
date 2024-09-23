@@ -1,5 +1,3 @@
-Here’s a complete **README.md** template for your **FreeLanes** project:
-
 ---
 
 # FreeLanes
